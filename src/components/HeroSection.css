@@ -1,0 +1,35 @@
+.multiline {
+    white-space: pre-wrap;
+  }
+
+.hero-container {
+    height: 100vh;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.intro-text {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.content{
+  margin: 20% -20%;
+  text-align: center;
+  position: relative;
+  padding-right: 20%;
+  padding-left: 20%;
+}
+
+.img-text {
+  font-size: x-large;
+}
+
+.img-text-p {
+}
