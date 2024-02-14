@@ -6,10 +6,10 @@ import "../App.css";
 
 const HeroSection = () => {
   return (
-    <div>
+    <div className="page">
       <Parallax className="hero-container" bgImage={ClassRoom} strength={300}>
-        <div className="content">
-          <h1 className="img-text">Special Education Counseling</h1>
+        <div className="hero-content">
+          <h1 className="hero-img-text">Special Education Consulting</h1>
           <br />
           <p className="img-text-p">Art Intervention Dynamic’s curriculum and strategies are completely different and unique to anything available.</p>
         </div>

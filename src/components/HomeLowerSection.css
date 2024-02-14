@@ -1,11 +1,8 @@
-.multiline {
-    white-space: pre-wrap;
-  }
-
-.hero-container {
-    height: 85vh;
+.lower-container {
+    height: 90vh;
     width: 90%;
     margin: auto;
+    margin-bottom: 2%;
     position: relative;
     display: flex;
     align-items: center;
@@ -19,7 +16,7 @@
   flex-direction: column;
 }
 
-.hero-content{
+.lower-content{
   margin: 20% -20%;
   text-align: center;
   position: relative;
@@ -27,6 +24,10 @@
   padding-left: 20%;
 }
 
-.hero-img-text {
-  font-size: 55px;
+.img-text {
+  font-size: x-large;
+}
+
+.lower-list {
+    text-align: left;
 }
