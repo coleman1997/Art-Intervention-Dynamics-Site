@@ -1,0 +1,17 @@
+.information-container {
+    height: 85vh;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+.information-content{
+    margin: 20% -20%;
+    text-align: left;
+    position: relative;
+    padding-right: 35%;
+    padding-left: 35%;
+  }
