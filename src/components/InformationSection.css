@@ -1,7 +1,7 @@
 @media screen and (max-width: 1000px) and (min-width: 1000px) {
     .information-container {
         height: 85vh;
-        width: 90%;
+        width: 100%;
         margin: auto;
         position: relative;
         display: flex;
@@ -12,10 +12,11 @@
 
  
 .information-content{
-    margin: 10% -10%;
+    margin: 10%;
     text-align: left;
+    line-height: 2.0;
     position: relative;
-    padding-right: 25%;
-    padding-left: 25%;
+    padding-right: 10%;
+    padding-left: 10%;
 }
 

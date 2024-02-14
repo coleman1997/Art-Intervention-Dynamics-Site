@@ -1,6 +1,3 @@
-.multiline {
-    white-space: pre-wrap;
-  }
 
 .hero-container {
     height: 85vh;
@@ -11,6 +8,12 @@
     align-items: center;
     text-align: center;
     justify-content: center;
+    animation: fadein 1s;
+}
+
+@keyframes fadein {
+  from { opacity: 0; }
+  to   { opacity: 1; }
 }
 
 .intro-text {
