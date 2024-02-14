@@ -1,0 +1,47 @@
+.about-page {
+    min-height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: fadein 1s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+  }
+  
+
+.about-container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-left {
+    width: 80%;
+    height: 600px;
+    background-image: url("https://images.squarespace-cdn.com/content/v1/64a8552953f34f30d8edf67d/1691686715184-JGDFFNW4MIKDXBF89S5O/image-asset.jpeg?format=2500w");
+    border-radius: 8px;
+}
+
+.about-right {
+    width: 80%;
+    min-height: 400px;
+    background-color: darkslategrey;
+    margin-left: -150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+    border-radius: 8px;
+    color: white;
+}
+
+.about-p {
+    line-height: 2;
+}

@@ -11,7 +11,7 @@ const HeroSection = () => {
         <div className="hero-content">
           <h1 className="hero-img-text">Special Education Consulting</h1>
           <br />
-          <p className="img-text-p">Art Intervention Dynamic’s curriculum and strategies are completely different and unique to anything available.</p>
+          <p className="img-text-p">Innovative Learning, Lasting Change</p>
         </div>
       </Parallax>
     </div>
