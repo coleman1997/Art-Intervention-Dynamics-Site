@@ -18,13 +18,7 @@ const ServicesTop = () => {
           </h1>
           <br />
           <p className="services-img-text-p">
-            Book an 8 hour day of on-site consulting and training. Mondays are
-            preferred. Contact us for pricing. Ongoing training/ shadowing can
-            also be scheduled.
-          </p>
-          <p className="services-img-text-p">
-            Materials will be provided with a day service of consulting and
-            training.
+            Book an 8 hour day of on-site consulting and training
           </p>
         </div>
       </Parallax>
