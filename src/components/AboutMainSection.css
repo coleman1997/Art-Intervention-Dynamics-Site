@@ -26,6 +26,8 @@
     width: 80%;
     height: 600px;
     background-image: url("https://images.squarespace-cdn.com/content/v1/64a8552953f34f30d8edf67d/1691686715184-JGDFFNW4MIKDXBF89S5O/image-asset.jpeg?format=2500w");
+    background-size: cover;
+    background-repeat: no-repeat;
     border-radius: 8px;
 }
 
@@ -42,6 +44,15 @@
     color: white;
 }
 
+.about-header {
+    background-color: transparent;
+}
+
 .about-p {
     line-height: 2;
+    background-color: transparent;
+}
+
+.about-content {
+    background-color: transparent;
 }
