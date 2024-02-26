@@ -22,11 +22,12 @@
     color: #000000;
     justify-self: start;
     margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
-    display: flex;
-    white-space: nowrap;
+    display: flex;    
     align-items: center;
   }
   
