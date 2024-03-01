@@ -1,6 +1,5 @@
 import React from "react";
 import ClassRoom from "../images/rodion-kutsaiev-F573ZRbKOEw-unsplash.jpg";
-import Logo from '../images/My+project-13+(1).png'
 import { Parallax } from "react-parallax";
 import "./HeroSection.css";
 import "../App.css";
