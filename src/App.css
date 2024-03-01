@@ -22,7 +22,6 @@
   }
   
   .services {
-    background-image: url('');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -31,7 +30,6 @@
   }
   
   .products {
-    background-image: url('');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
@@ -40,7 +38,6 @@
   }
   
   .sign-up {
-    background-image: url('');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
