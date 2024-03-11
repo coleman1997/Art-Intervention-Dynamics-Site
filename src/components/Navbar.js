@@ -29,9 +29,8 @@ const Navbar = () => {
       <nav className="navbar">
         <div className="navbar-container">
           <Link to="/" className="navbar-logo">
-            Art Intervention Dynamics LLC
+            Art Intervention Dynamics 
           </Link>
-          <div className="logo-img"></div>
           <div className="menu-icon" onClick={handleClick}>
             <i className={click ? "fas fa-times" : "fa-solid fa-bars"} />
           </div>

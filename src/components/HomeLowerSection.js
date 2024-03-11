@@ -13,7 +13,8 @@ const HomeLowerSection = () => {
           <h1 className="img-text">Our Services</h1>
           <br />
           <ul className='lower-list'>
-            <li className='lower-list-item'>One Day Service/ Training with Ongoing Training and Shadowing</li>
+            <li className='lower-list-item'>One Day Service or half day service</li>
+            <li className='lower-list-item'>Training with Ongoing Shadowing offered</li>
             <li className='lower-list-item'>Materials Provided</li>
             <li className='lower-list-item'>Consulting</li>
           </ul>
