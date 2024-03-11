@@ -1,5 +1,5 @@
 .services-page {
-    background-color: #f9f9f9;
+    background-color: #BBDEF0;
   }
   
   .services-container {
@@ -13,6 +13,9 @@
       text-align: center;
       justify-content: center;
       animation: fadein 1s;
+      border-style: solid;
+    border-color: transparent;
+    border-radius: 10px;
   }
   
   .react-parallax-content {
