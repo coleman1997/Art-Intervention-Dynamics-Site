@@ -1,5 +1,5 @@
 .navbar {
-    height: 80px;
+    overflow-y: hidden;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -14,21 +14,18 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 80px;
+    min-height: 80px;
     max-width: 1425px;
   }
   
   .navbar-logo {
     color: #000000;
-    justify-self: start;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 100%;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
     display: flex;    
     align-items: center;
+    height: auto;
   }
   
   .fa-typo3 {
@@ -75,6 +72,7 @@
   
   .menu-icon {
     display: none;
+    margin: auto;
   }
   
   @media screen and (max-width: 960px) {
